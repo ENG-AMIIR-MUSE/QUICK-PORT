@@ -4,6 +4,7 @@ import { FaGithub } from "react-icons/fa";
 
 export default function ShowCase() {
   return (
+    // shawocase
     <div className="max-w-[1200px] m-auto p-5 flex flex-col md:flex-row md:items-center md:justify-between h-[80vh] relative">
       {/* Circle near the logo */}
       <div className="absolute z-[-1] top-[10%] left-[10%] w-[100px] h-[100px] bg-blue-300 rounded-full mix-blend-multiply opacity-20"></div>
